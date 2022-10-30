@@ -3,3 +3,11 @@
 *.o
 cmake-build-debug/
 .idea/
+.vs/
+out/
+Debug/
+x64/
+CmakeFiles/
+.cmake/
+CMake*
+Cmake*

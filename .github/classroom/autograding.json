@@ -3,7 +3,7 @@
     {
       "name": "Test suite",
       "setup": "",
-      "run": "cmake Test",
+      "run": "cmake -C ./CmakeLists.txt && ./Test.o",
       "input": "",
       "output": "",
       "comparison": "included",
