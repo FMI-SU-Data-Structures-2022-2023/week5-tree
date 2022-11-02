@@ -11,6 +11,9 @@ int countElements(Node*);
 int countLeafs(Node*);
 int sumElements(Node*);
 int sumElementsAtLevel(Node*, unsigned);
+int height(Node*);
+bool isBST(Node*);
+bool isSymmetric(Node*);
 
 #define WEEK3_TREE_H
 

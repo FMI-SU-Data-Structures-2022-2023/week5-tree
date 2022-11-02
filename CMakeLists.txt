@@ -1,6 +1,9 @@
-cmake_minimum_required(VERSION 3.0.0)
-project(week5 VERSION 0.1.0)
-set (CMAKE_CXX_STANDARD 17)
+cmake_minimum_required(VERSION 3.13)
+
+project("Week 6: Binary Tree")
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(Tree main.cpp Tree.h)
 add_executable(Test test.cpp Tree.h)
