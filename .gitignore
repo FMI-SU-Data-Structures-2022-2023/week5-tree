@@ -9,5 +9,4 @@ Debug/
 x64/
 CmakeFiles/
 .cmake/
-CMake*
-Cmake*
+build/
