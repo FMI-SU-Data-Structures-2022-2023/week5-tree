@@ -1,6 +1,6 @@
-#define CATCH_CONFIG_MAIN // This should come **before** including the 'catch.hpp'.
-#include "catch.hpp"
-#include "Tree.cpp"
+#include "catch2/catch_all.hpp"
+#include "solution.h"
+
 using namespace std;
 
 void clean(Node*& n) {

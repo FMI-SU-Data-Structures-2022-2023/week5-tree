@@ -1,4 +1,4 @@
-#ifndef WEEK3_TREE_H
+#ifndef WEEK6_TREE_H
 
 struct Node {
     int key;
@@ -15,6 +15,6 @@ int height(Node*);
 bool isBST(Node*);
 bool isSymmetric(Node*);
 
-#define WEEK3_TREE_H
+#define WEEK6_TREE_H
 
-#endif //WEEK3_TREE_H
+#endif //WEEK6_TREE_H
